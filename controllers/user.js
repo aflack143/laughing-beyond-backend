@@ -70,6 +70,5 @@ module.exports = {
     signup,
     login,
     getProfile,
-    editProfile
-    
+    editProfile  
 }
