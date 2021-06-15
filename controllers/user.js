@@ -2,7 +2,8 @@ const User = require('../models').User;
 const constants = require('../constants');
 
 const getProfile = (req, res) => {
-    User.findByPk(req.user.id, {
+    // User.findByPk(req.user.id, {
+    User.findByPk(req.params.id, {
         attributes: ['id', 'name', 'email', 'username', 'password', 'img'],
     })
     .then(userProfile => {
@@ -15,12 +16,14 @@ const getProfile = (req, res) => {
 const editProfile = (req, res) => {
     User.update(req.body, {
         where: {
-            id: req.user.id
+            // id: req.user.id
+            id: req.params.id
         },
         returning: true
     })
     .then(() => {
-        User.findByPk(req.user.id, {
+        // User.findByPk(req.user.id, {
+        User.findByPk(req.params.id, {
             attributes: ['id', 'name', 'email', 'username', 'password', 'img'],
         })
         .then(userProfile => {
