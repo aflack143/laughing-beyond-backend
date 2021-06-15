@@ -8,34 +8,19 @@ module.exports = {
           email: "julia",
           username: "julia",
           password: "julia",
-          img: " "
+          img: "https://i.pinimg.com/originals/69/d5/67/69d5671797cd35bd3ef3074436e942f1.png"
       },
       {
           name: "Andrea Clark",
           email: "andrea",
           username: "andrea",
           password: "andrea",
-          img: "img"
+          img: ""
       }
       
   ], {})
-    /**
-     * Add seed commands here.
-     *
-     * Example:
-     * await queryInterface.bulkInsert('People', [{
-     *   name: 'John Doe',
-     *   isBetaMember: false
-     * }], {});
-    */
   },
 
   down: async (queryInterface, Sequelize) => {
-    /**
-     * Add commands to revert seed here.
-     *
-     * Example:
-     * await queryInterface.bulkDelete('People', null, {});
-     */
   }
 };
