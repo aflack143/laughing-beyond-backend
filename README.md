@@ -54,6 +54,7 @@ Jointly created by Julia Christensen and Andrea Clark
 <img src="https:" width="400">
 
 **_Key notes_**: 
-Can't wait for this to be over!
+
+[Link to Asana](https://app.asana.com/0/1200474893168640/list)
 
 ### Sources: 
