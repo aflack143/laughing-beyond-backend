@@ -54,6 +54,6 @@ Jointly created by Julia Christensen and Andrea Clark
 <img src="https:" width="400">
 
 **_Key notes_**: 
-
+Can't wait for this to be over!
 
 ### Sources: 
