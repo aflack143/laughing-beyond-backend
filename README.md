@@ -1,13 +1,13 @@
-# Laughing&Beyond
+# Laughing&Beyond (backend)
 
 ## Description:
 A collection of Jokes, FunFacts and Quotes for laughter, learning and inspiration. 
 Jointly created by Julia Christensen and Andrea Clark
-[Link to project 3](https://github.com/aflack143/laughing&beyond)
+* [Link to Project 3 - frontend](https://github.com/aflack143/laughing-beyond-frontend)
+* [Link to Project 3 - backend](https://github.com/aflack143/laughing-beyond-backend)
 
 ## Brief Example:
-<img src="https:" width="700">
-<img src="https:" width="700">
+<img src="https://user-images.githubusercontent.com/80013194/122136801-e01d2a00-ce08-11eb-9c4c-68d1bbc0ed79.png" width="700">
 
 
 ## Features:
@@ -46,12 +46,21 @@ Jointly created by Julia Christensen and Andrea Clark
 
 
 ## Technologies Used:
-
+   Express, 
+   Axios, 
+   PG, 
+   Sequelize, 
+   Body-parser, 
+   Bcryptjs, 
+   Jsonwebtoken, 
+   Cors, 
+   Dotenv
+   
 
 ## Getting Started:
-<img src="https:" width="400">
-<img src="https:" width="400">
-<img src="https:" width="400">
+<img src="https://user-images.githubusercontent.com/80013194/122136009-430dc180-ce07-11eb-9933-9ed9701f94ff.png" width="400">
+<img src="https://user-images.githubusercontent.com/80013194/122136023-4c972980-ce07-11eb-9ffe-33aad8c87e1c.png" width="400">
+<img src="https://user-images.githubusercontent.com/80013194/122136034-5325a100-ce07-11eb-8ba2-ba1cb73bd887.jpg" width="400">
 
 **_Key notes_**: 
 
