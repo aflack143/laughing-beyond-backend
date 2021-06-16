@@ -34,7 +34,25 @@ const editProfile = (req, res) => {
         res.status(constants.INTERNAL_SERVER_ERROR).send(`ERROR: ${err}`);
     })
 }
+
+const deleteProfile = (req, res) => {
+    User.destroy({
+        where: {
+            id: req.params.id
+        }
+        
+    })
+    .then(deletedProfile => {
+        console.log("Profile Deleted")
+        res.status(constants.SUCCESS).send('success')
+    })
+    .catch(err => {
+        res.status(constants.INTERNAL_SERVER_ERROR).send(`ERROR: ${err}`);
+    })
+}
+
 module.exports = {
     getProfile,
-    editProfile  
+    editProfile,
+    deleteProfile
 }
