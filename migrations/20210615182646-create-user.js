@@ -27,7 +27,7 @@ module.exports = {
       },
       img: {
         type: Sequelize.STRING,
-        defaultValue: 'https://i.pinimg.com/236x/f5/1d/41/f51d41721ce71cd64daddb2f8b6b15a7--profile-pictures-funny-memes.jpg'
+        defaultValue: 'https://theawesomer.com/photos/2010/06/060410_Facebook_profile_pic_6.jpg'
       },
       createdAt: {
         allowNull: false,
