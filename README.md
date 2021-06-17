@@ -67,3 +67,7 @@ Jointly created by Julia Christensen and Andrea Clark
 [Link to Asana](https://app.asana.com/0/1200474893168640/list)
 
 ### Sources: 
+
+https://www.npmjs.com/package/dotenv
+http://expressjs.com/en/resources/middleware/cors.html
+https://flaviocopes.com/express-send-json-response/
