@@ -7,7 +7,7 @@ Jointly created by Julia Christensen and Andrea Clark
 * [Link to Project 3 - backend](https://github.com/aflack143/laughing-beyond-backend)
 
 ## Brief Example:
-<img src="https://user-images.githubusercontent.com/80013194/122136801-e01d2a00-ce08-11eb-9c4c-68d1bbc0ed79.png" width="700">
+<img src="https://user-images.githubusercontent.com/80013194/122334679-b5fa6380-ceff-11eb-81c5-2c0b4ed334e9.png" width="700">
 
 ## Server.js
 <img src="https://user-images.githubusercontent.com/62125512/122476672-38306980-cf8c-11eb-99db-8ac05fa281ab.PNG" width="700">
@@ -70,6 +70,6 @@ Jointly created by Julia Christensen and Andrea Clark
 
 ### Sources: 
 
-https://www.npmjs.com/package/dotenv
-http://expressjs.com/en/resources/middleware/cors.html
-https://flaviocopes.com/express-send-json-response/
+https://www.npmjs.com/package/dotenv <br>
+http://expressjs.com/en/resources/middleware/cors.html <br>
+https://flaviocopes.com/express-send-json-response/ <br>
