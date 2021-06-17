@@ -9,6 +9,8 @@ Jointly created by Julia Christensen and Andrea Clark
 ## Brief Example:
 <img src="https://user-images.githubusercontent.com/80013194/122136801-e01d2a00-ce08-11eb-9c4c-68d1bbc0ed79.png" width="700">
 
+## Server.js
+<img src="https://github.com/aflack143/laughing-beyond-backend/issues/1#issue-924365851" width="700">
 
 ## Features:
 **_Bronze_**:
