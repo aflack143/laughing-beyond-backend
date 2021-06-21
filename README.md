@@ -3,14 +3,16 @@
 ## Description:
 A collection of Jokes, FunFacts and Quotes for laughter, learning and inspiration. 
 Jointly created by Julia Christensen and Andrea Clark
-* [Link to Project 3 - frontend](https://github.com/aflack143/laughing-beyond-frontend)
-* [Link to Project 3 - backend](https://github.com/aflack143/laughing-beyond-backend)
+* [Repository for Project 3 - frontend](https://github.com/aflack143/laughing-beyond-frontend)
+* [Repository for  Project 3 - backend](https://github.com/aflack143/laughing-beyond-backend)
 
 ## Brief Example:
 <img src="https://user-images.githubusercontent.com/80013194/122783463-352cc600-d277-11eb-8dd4-e1fa27f882ae.png" width="100" height="100">
 
 Server.js<br>
 <img src="https://user-images.githubusercontent.com/62125512/122476672-38306980-cf8c-11eb-99db-8ac05fa281ab.PNG" width="100" height="100">
+
+Front-end Demo: http://laughing-beyond.surge.sh/
 
 ## Features:
 **_Bronze_**:
