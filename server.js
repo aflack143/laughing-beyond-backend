@@ -10,6 +10,7 @@ const jwt = require('jsonwebtoken');
 
 const corsOptions = {
   origin: ['http://localhost:3000'],
+  // origin: ['http://laughing-beyond.surge.sh'],
   methods: "GET,POST,PUT,DELETE",
   credentials: true,
   optionsSuccessStatus: 200
